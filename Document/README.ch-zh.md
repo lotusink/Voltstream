@@ -38,4 +38,4 @@
 - [ ] 系统部署与流式预测 (进行中)
 
 ## **3 数据详情**
-详见[数据详情说明](../Dataset/README.ch-zh.md)
+详请请见[数据详情说明](../Dataset/README.ch-zh.md).

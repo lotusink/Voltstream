@@ -46,3 +46,7 @@ This phase marks the transition from offline model training to online prediction
 
 - [x] Model Development and Validation
 - [ ] System Deployment and Streaming Prediction (In Progress)
+
+## **3 Data Details**
+
+See [Dataset Details](README.md).
