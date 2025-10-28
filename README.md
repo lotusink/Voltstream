@@ -13,7 +13,7 @@ The dataset is provided by Monash University, covering the entire year of 2022 w
 2. Building metadata (number of floors, functional use, floor area, etc.)  
 3. Electric meter readings
 
-For more details, please refer to the [Simulated Data Lake](DataStorage/README.md) section.
+For more details, please refer to the [Simulated Data Lake](SimulatedDataLake/README.md) section.
 
 ## **3. Project Workflow Diagram**
 

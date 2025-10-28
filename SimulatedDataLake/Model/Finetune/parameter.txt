@@ -1,0 +1,61 @@
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__cacheNodeIds
+	value:False
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__checkpointInterval
+	value:10
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__featureSubsetStrategy
+	value:all
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__featuresCol
+	value:scaledFeatures
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__impurity
+	value:variance
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__labelCol
+	value:value
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__leafCol
+	value:
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__lossType
+	value:squared
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__maxBins
+	value:32
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__maxDepth
+	value:10
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__maxIter
+	value:30
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__maxMemoryInMB
+	value:2048
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__minInfoGain
+	value:0.0
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__minInstancesPerNode
+	value:1
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__minWeightFractionPerNode
+	value:0.0
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__predictionCol
+	value:value_pred
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__seed
+	value:-168258867912800856
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__stepSize
+	value:0.2
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__subsamplingRate
+	value:1.0
+--------------------------------------------------
+	param:GBTRegressor_751f345e5f18__validationTol
+	value:0.01
+--------------------------------------------------

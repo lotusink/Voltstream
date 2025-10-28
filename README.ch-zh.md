@@ -14,7 +14,7 @@
 2）建筑元数据（楼层数、功能用途、占地面积等）   
 3）电表读数  
 
-详情请参见项目[模拟数据湖](DataStorage/README.ch-zh.md)部分
+详情请参见项目[模拟数据湖](SimulatedDataLake/README.ch-zh.md)部分
 
 ## **三、项目流程图**
 
