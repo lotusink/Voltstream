@@ -4,7 +4,7 @@
 
 ## **1. Project Introduction**
 
-This project builds a prototype big data system for building energy consumption forecasting and real-time monitoring, based on Spark and Kafka, to achieve energy trend prediction and anomaly detection. The overall system adopts a layered storage and batch–stream integrated architecture design, covering the complete process of data collection, distributed processing, model training, real-time inference, and visualization. It can simulate the real-time streaming and prediction of hourly energy consumption data. I independently completed offline modeling and analysis, as well as the implementation of online inference and real-time monitoring.
+This project builds a prototype big data system for building energy consumption forecasting and real-time monitoring, based on Spark and Kafka, to achieve energy trend prediction. The overall system adopts a layered storage and batch–stream integrated architecture design, covering the complete process of data collection, distributed processing, model training, real-time inference, and visualization. It can simulate the real-time streaming and prediction of hourly energy consumption data. I independently completed offline modeling and analysis, as well as the implementation of online inference and real-time monitoring.
 
 ## **2. Data Description**
 
