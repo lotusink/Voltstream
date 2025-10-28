@@ -46,6 +46,9 @@ The source data has hourly precision, with each 24 records representing 24 hours
 
 For detailed implementation, please refer to the [Project Code](Scripts/README.md) section.
 
+---
+
+**Structure Index:** [Introduction Page](README.md) | [Simulated Data Lake](SimulatedDataLake/README.md) | [Project Code](Scripts/README.md)
 
 ---
 

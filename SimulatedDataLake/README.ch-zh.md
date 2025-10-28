@@ -17,3 +17,7 @@
 | 基准模型                                   | 最优模型                                   |
 |----------------------------------------|----------------------------------------|
 | [placeholder](Model/Baseline/placeholder.txt) | [parameter](Model/Finetune/parameter.txt) |
+
+---
+
+**结构索引：**[介绍页面](../README.ch-zh.md) | [模拟数据湖](README.ch-zh.md) | [项目代码](../Scripts/README.ch-zh.md)

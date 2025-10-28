@@ -17,3 +17,7 @@ The model data includes:
 | Baseline Model | Optimal Model |
 |----------------|----------------|
 | [placeholder](Model/Baseline/placeholder.txt) | [parameter](Model/Finetune/parameter.txt) |
+
+---
+
+**Structure Index:** [Introduction Page](../README.md) | [Simulated Data Lake](../SimulatedDataLake/README.md) | [Project Code](../Scripts/README.md)
