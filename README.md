@@ -15,7 +15,7 @@ The dataset is provided by Monash University, covering the entire year of 2022 w
 
 ## **3. Project Workflow Diagram**
 
-![](Image/Structure_en.png)
+![](Image/Workflow_en.png)
 
 ## **4. Project Workflow Description**
 

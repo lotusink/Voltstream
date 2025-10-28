@@ -12,7 +12,7 @@
 
 ## **三、项目流程图**
 
-![](Image/Structure.png)
+![](Image/Workflow.png)
 
 ## **四、项目流程介绍**
 
