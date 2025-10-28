@@ -42,7 +42,7 @@ To enhance system resilience, checkpointing is enabled to support fault recovery
 
 The source data has hourly precision, with each 24 records representing 24 hours and sharing the same second-level timestamp. The system pushes 120 records every 5 seconds to Kafka, driving high-frequency online prediction and window aggregation. Prediction results and key monitoring metrics are written back in real time to a visualization dashboard, supporting observation of energy consumption trends and anomaly alerts, thereby fully demonstrating the end-to-end data pipeline and engineering capability under the batch–stream integrated architecture.
 
-## **5. Project Workflow Description**
+## **5. Implementation**
 
 For detailed implementation, please refer to the [Project Code](Scripts/README.md) section.
 
