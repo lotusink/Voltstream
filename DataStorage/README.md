@@ -1,5 +1,11 @@
-[English](./README.md)|[中文简体](./README.ch-zh.md)
+[English](./README.md) | [简体中文](./README-ch.zh.md)
 
-# **Attention**
+# **Simulated Data Lake**
 
-In accordance with the confidentiality agreement signed with the relevant parties, the project data will not be disclosed during the project period. The complete dataset will be supplemented and finalized after the project is concluded.
+This section represents the simulated local data lake storage space. Due to repository file size limitations, only 50 records are provided for both the static data files and the simulated streaming source files. The detailed correspondence is as follows:
+
+| Data Name | Static Data                                                                                                                                                               | Streaming Source File                                          |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Meteorological Data | [weather](Weather/Static/weather.csv)                                                                                                                                     | [weather_stream](Weather/Streaming/weather_stream.csv)         |
+| Building Energy Consumption | [meters](EnergyConsumption/Static/meters.csv)                                                                                                                             | [meters_stream](EnergyConsumption/Streaming/meters_stream.csv) |
+| Building Metadata | [building_information](BuildingMetadata/Static/building_information.csv) / [new_building_information_modify](BuildingMetadata/Static/new_building_information_modify.csv) | -                                                              |

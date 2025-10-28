@@ -1,4 +1,11 @@
-[English](./README.md)|[中文简体](./README-ch.zh.md)
+[English](./README.md) | [简体中文](./README-ch.zh.md)
 
-# **注意**
-依据与合作方签署的保密协议，项目实施期间相关数据暂不公开。待项目结束后，将对数据内容进行补充与完善，以确保研究结果的完整性与合规性。
+# **模拟数据湖**
+
+本部分为模拟的本地数据湖存储空间，由于代码仓库文件大小的限制，我们仅提供了所有静态数据文件与模拟流式数据的源文件各 50 条，具体对应关系如下：
+
+| 数据名称  | 静态数据                                                                                                                                                                     | 流数据源文件                                                         |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 气象数据  | [weather](Weather/Static/weather.csv)                                                                                                                                    | [weather_stream](Weather/Streaming/weather_stream.csv)         |
+| 建筑能耗  | [meters](EnergyConsumption/Static/meters.csv)                                                                                                                            | [meters_stream](EnergyConsumption/Streaming/meters_stream.csv) |
+| 建筑元数据 | [building_information](BuildingMetadata/Static/building_information.csv)/ [new_building_information_modify](BuildingMetadata/Static/new_building_information_modify.csv) | -                                                              |

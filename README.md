@@ -1,4 +1,4 @@
-[English](README.md) | [中文简体](README.ch-zh.md) 
+[English](README.md) | [简体中文](README.ch-zh.md) 
 
 # **Real-Time Building Energy Load Forecasting Platform**
 
@@ -12,6 +12,8 @@ The dataset is provided by Monash University, covering the entire year of 2022 w
 1. Meteorological data (air temperature, surface temperature, wind speed, wind direction, cloud cover rate, etc.)  
 2. Building metadata (number of floors, functional use, floor area, etc.)  
 3. Electric meter readings
+
+For more details, please refer to the [Simulated Data Lake](DataStorage/README.md) section.
 
 ## **3. Project Workflow Diagram**
 
@@ -39,6 +41,11 @@ To enhance system resilience, checkpointing is enabled to support fault recovery
 ### **4.4. Stream Simulation**
 
 The source data has hourly precision, with each 24 records representing 24 hours and sharing the same second-level timestamp. The system pushes 120 records every 5 seconds to Kafka, driving high-frequency online prediction and window aggregation. Prediction results and key monitoring metrics are written back in real time to a visualization dashboard, supporting observation of energy consumption trends and anomaly alerts, thereby fully demonstrating the end-to-end data pipeline and engineering capability under the batch–stream integrated architecture.
+
+## **5. Project Workflow Description**
+
+For detailed implementation, please refer to the [Project Code](Scripts/README.md) section.
+
 
 ---
 
